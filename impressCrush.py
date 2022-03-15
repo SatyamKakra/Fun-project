@@ -1,6 +1,6 @@
 # THIS IS ONLY FOR YOU
 
-# THIS IS FOR YOU MY LOVE
+
 from turtle import *
 color("red")
 begin_fill()
